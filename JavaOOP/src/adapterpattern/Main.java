@@ -16,6 +16,7 @@ public class Main {
 			}
 			for(TerranInterface tmp : unit){
 				tmp.attack();
+				System.out.println("수정 예정입니다");
 			}
 		
 	}
